@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/djabaljs/images/djabaljs/undraw_developer_activity_bv83.png?raw=true)
+![alt text](https://github.com/djabaljs/images/blob/main/undraw_developer_activity_bv83.png?raw=true)
 
 ### Hi i'm Djabal Konaté 👋
 - 🔭 I am a backend developer with PHP, NODEJS (Symfony, Laravel, ExpressJs).
