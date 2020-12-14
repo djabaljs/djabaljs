@@ -6,8 +6,9 @@
 - 😄 I learn very quickly
 
 - 💬 I love to travel and spend time with my family...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me:
+    - Email: mahazbindjabal@gmail.com
+    - Skype: @KDjabal
 
 <!--
 **djabaljs/djabaljs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
